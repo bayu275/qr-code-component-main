@@ -19,11 +19,10 @@ body {
 }
 
 .container {
-    height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 20px;
+    padding: 40px;
 }
 
 .card {
@@ -78,6 +77,10 @@ body {
 }
 
 @media screen and (max-width: 568px) {
+    .container {
+        padding: 20px;
+    }
+
     .card .qr-text {
         padding: 0 5px;
     }
