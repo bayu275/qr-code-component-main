@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [https://qr-code-component-bayu.netlify.app](https://qr-code-component-bayu.netlify.app)
+-   Solution URL: [Qr Code Component Solution](https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-LWi12wGfec)
+-   Live Site URL: [Qr Code Component Site](https://qr-code-component-bayu.netlify.app)
 
 ## My process
 
@@ -33,8 +33,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 -   Mobile-first workflow
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 HTML Structure:
 
